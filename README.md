@@ -1,2 +1,2 @@
 # maxpoon.github.io
-[My blog](maxpoon.github.io)
+[My blog](https://maxpoon.github.io/)
